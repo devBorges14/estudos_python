@@ -1,7 +1,7 @@
 ## Hoje o estudo é sobre Lambda
 Funções Lambda Python são funções anônimas, o que significa que a função não tem nome. Como já sabemos, a palavra-chave def 
 é usada para definir uma função normal em Python. Da mesma forma, a palavra-chave lambda é usada para definir uma função anônima em Python.
-- <a href="https://www.w3schools.com/python/python_lambda.asp"> Artigo Python Lambda<q>
+- <a href="https://www.w3schools.com/python/python_lambda.asp"> Artigo Python Lambda<a>
 
 1️⃣ Crie uma função lambda que receba um número e retorne o dobro dele.
 2️⃣ Crie uma função lambda que diga se um número é par (True) ou ímpar (False).
